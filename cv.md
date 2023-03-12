@@ -12,7 +12,7 @@ Experience in Software Engineering. Technical Tools:
 - Version Control: Git, GitHub.
 # Other Skills
 ## Languages:
-English and Russian
+English, Japan and Russian
 Public Speaking:
 Experience and ability to speak with passion and confidence in public speaking.
 ## Awards
