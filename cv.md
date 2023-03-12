@@ -19,9 +19,6 @@ Experience and ability to speak with passion and confidence in public speaking.
 - International Math Olympiad NATIONAL RESEARCH NUCLEAR UNIVERSITY MEPHI,III place, November 2019.
 - International Physics Olympiad NATIONAL RESEARCH NUCLEAR UNIVERSITY MEPHI, II place, November 2019.
 ## Projects
-- NONOISE (Non commercial), October 2021
-This app helps people who have autism. Usually people with autism don't like a lot of noise. The app shows you the parts of the city where it's loud right now.
-Technical Tools: Android Studio, Java, Yandex-mapkit
 - BUBBLECODE! (Non commercial) , October 2021
 Bubblecode is an interactive code for scanning (alternative to qr). The application uses a gradient to represent numbers.
 Technical Tools: Python, Pillow- pil, Open-cv
